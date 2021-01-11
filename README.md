@@ -1,6 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto: Clone Página de login do Instagram 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Feito através do bootcamp React Web Developer da DIO. 
+Instruções da Gabriela Pinheiro.
 
 ### Os requisitos são:
 
